@@ -1,7 +1,8 @@
 ### Heya
-- 🔭 I’m currently working on 3D graphics with C++, SDL, Opengl. 
-- 🌱 I’m currently learning Competitive Programming, Android Development, Machine Learning, Web development
-- 👯 I’m looking to collaborate on Android Development, Machine Learning projects.
+- 🔭 I’m currently working on Java, Spring boot, Mongo, AI Agents, Agentic workflows, LangChain, LangGraph etc.
+- 🔭 I have worked on 3D graphics with C++, SDL, Opengl. 
+- 🌱 I have done Competitive Programming, Android Development, Machine Learning, Web development
+- 👯 I’m looking to collaborate on Java Spring boot projects / AI Agent projects
 - 📫 How to reach me: sarthakpatel2002@gmail.com
 <!--
 **sarthakhp/sarthakhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
